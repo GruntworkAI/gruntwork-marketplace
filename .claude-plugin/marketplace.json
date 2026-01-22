@@ -1,0 +1,17 @@
+{
+  "name": "gruntwork-marketplace",
+  "description": "Claude Code plugins for Gruntwork development workflows",
+  "author": {
+    "name": "Michael Fisher",
+    "url": "https://github.com/GruntworkAI"
+  },
+  "repository": "https://github.com/GruntworkAI/gruntwork-marketplace",
+  "plugins": [
+    {
+      "name": "lastmilefirst",
+      "version": "0.3.0",
+      "description": "Last Mile First methodology plugin: AI expert agents for parallel consultation, Claude configuration management, documentation review, and workspace organization skills.",
+      "path": "stack-wisdom/lastmilefirst"
+    }
+  ]
+}
