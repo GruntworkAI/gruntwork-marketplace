@@ -30,7 +30,7 @@ Created `~/.claude/workspace-config.json`:
   "workspace": "~/Code",
   "orgs": [
     {"name": "gruntwork", "default": true},
-    {"name": "Waterfield", "sensitive": true}
+    {"name": "client-work", "sensitive": true}
   ]
 }
 ```
